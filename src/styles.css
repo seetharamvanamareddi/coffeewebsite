@@ -1,0 +1,34 @@
+.nav-wrapper{
+	background-color: #2B0F0E;
+	padding-left: 10px;
+	padding-right: 30px;
+}
+
+.description p {
+/*	justify-content: center;
+*/	text-align: justify;
+	padding-left: 20px
+}
+
+.cards img{
+width: auto;
+  height: 300px;
+}
+
+.icon-coffee{
+	color: #2B0F0E
+}
+
+.parallax-container{
+	min-height: 280px;
+	height: auto;
+}
+
+.footer{
+	background:#2B0F0E;
+	padding-bottom: 10px;
+}
+
+.aboutus p{
+	text-align: justify;
+}
